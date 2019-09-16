@@ -1,0 +1,33 @@
+Sample topics for a project:
+
+HMMs:
+  Structured HMMs: e.g. factorial HMMs, dynamic Dayesian networks
+   Spectral methods for learning HMMs
+
+Dynamic programming:
+  Belief propagation
+  The inside-outside algorithm for probabilistic context free grammars
+  Belman's equation (e.g. for portfolio optimization, optimal control)
+
+
+EM:
+  Online EM algorithms
+  Variational bayes
+
+Monte Carlo methods:
+  Particle filtering
+  Annealed importance sampling
+  MCMC for Dirichlet process mixtures
+  Parallel MCMC
+  Approximate MCMC (`MCMC on a budget')
+  Perfect sampling/coupling from the past
+
+Optimization methods:
+  Bayesian optimization
+  Convex optimization (lots of topics)
+  Combinatorial optimization (lots of topics)
+
+Misc ideas:
+  Random forests, 
+  Lasso, 
+  Boosting, 
